@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 650: expected statement.
+    vbox:
+        ^
+
+Ren'Py Version: Ren'Py 8.3.4.24120703
+Fri Aug 21 11:34:49 2026
